@@ -1,1 +1,1 @@
-created a new start file!
+This is the first file create in my sample directory.
